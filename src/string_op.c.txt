@@ -27,3 +27,7 @@ void perform()
 {
 
 }
+void wide_char_string()
+{
+
+}
