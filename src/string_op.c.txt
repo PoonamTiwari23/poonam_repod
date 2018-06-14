@@ -23,3 +23,7 @@ int main(void)
 
 //today modified
 //modified for patch
+void string()
+{
+
+}
